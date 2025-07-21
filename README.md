@@ -36,9 +36,9 @@ This project demonstrates a full pipeline for transforming a raw retail sales da
 
 ![Cleaned Data Table_2](https://github.com/jotstolu/Retail-Sales-Data-Cleaning-Pivot-Table-Analysis/blob/main/data_cleaning/before_and_after_cleaning2.png?raw=true)
 
+**Monthly store performance overview**
+![Pivot Table Summary](https://github.com/jotstolu/Retail-Sales-Data-Cleaning-Pivot-Table-Analysis/blob/main/data_cleaning/Monthly%20Net%20Sales%20Summary.png?raw=true)  
 
-![Pivot Table Summary](./screenshots/pivot_summary.png)  
-*Monthly store performance overview*
 
 ![Category Trend Chart](./screenshots/category_trend.png)  
 *Sales trajectory by item category*
