@@ -30,7 +30,7 @@ This project demonstrates a full pipeline for transforming a raw retail sales da
 
 ## 📷 Sample Outputs
 
-![Cleaned Data Table](./screenshots/cleaned_data.png)  
+![Cleaned Data Table](https://github.com/jotstolu/Retail-Sales-Data-Cleaning-Pivot-Table-Analysis/blob/main/data_cleaning/before_and_after_cleaning.png?raw=true)  
 *Before vs. after cleansing effect*
 
 ![Pivot Table Summary](./screenshots/pivot_summary.png)  
