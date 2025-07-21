@@ -6,6 +6,8 @@ This project demonstrates a full pipeline for transforming a raw retail sales da
 
 ## 🧩 Project Overview
 
+[Access the cleaned dataset ](https://docs.google.com/spreadsheets/d/1oJ_ZdMK6iivUYQWF3b1fR8tFILfX5cu8/edit?gid=444772703#gid=444772703)
+
 1. **Data Import & Initial Audit**  
    - Load CSV data  
    - Inspect structure, types, missing values  
@@ -42,9 +44,6 @@ This project demonstrates a full pipeline for transforming a raw retail sales da
 
 **Sales trajectory by item category**
 ![Category Trend Chart](https://github.com/jotstolu/Retail-Sales-Data-Cleaning-Pivot-Table-Analysis/blob/main/data_cleaning/Net%20Sales%20vs.%20Total%20Sales%20by%20Product%20Category.png?raw=true)  
-
-![Seasonal Analysis](./screenshots/seasonality.png)  
-*Highlighting seasonal demand patterns*
 
 ---
 
